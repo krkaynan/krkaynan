@@ -1,16 +1,15 @@
-## Hi there 👋
+import Desenvolvedor from "Kaynan Raikkonen";
 
-<!--
-**krkaynan/krkaynan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "Gabriel Brito de Sousa";
+  area = "Instrutor e Desenvolvedor FullStack";
+  trabalho = "Instrutor de Tecnologia - Senai Têxtil "
+  contato = "gabrielbritodesousa@gmail.com";
+  }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript, Python, Java, PHP, TypeScript"];
+  bibliotecas = ["ReactJS", "TensorFlow", "Styled Components", "jQuery", "Bootstrap"];
+  frameworks = ["React.js, Express, Next.js, Flask, Django, Laravel"];
+  fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
+}
