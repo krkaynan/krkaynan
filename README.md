@@ -8,8 +8,7 @@ class SobreMim extends Desenvolvedor {
   }
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=krkaynan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 
 <div style="display: inline_block"><br>
