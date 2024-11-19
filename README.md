@@ -6,10 +6,9 @@ class SobreMim extends Desenvolvedor {
   area = "Desenvolvedor FullStack";
   contato = "raikkonenkaynan@icloud.com";
   }
-
-
-
-
+```
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gbrito-code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/Gbrito-code"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrito-code&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
