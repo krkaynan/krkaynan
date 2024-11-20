@@ -7,7 +7,7 @@ class SobreMim extends Desenvolvedor {
   contato = "raikkonenkaynan@icloud.com";
   }
 ```
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=krkaynan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/krkaynan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 | ------------- | ------------- |
 
 <div style="display: inline_block"><br>
