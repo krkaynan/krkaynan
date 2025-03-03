@@ -4,7 +4,7 @@ import Desenvolvedor from "Kaynan Raikkonen Martins";
 class SobreMim extends Desenvolvedor {
   nome = "Kaynan Raikkonen Martins Santos";
   area = "Desenvolvedor FullStack";
-  contato = "raikkonenkaynan@icloud.com";
+  contato = "raikkonenkaynan@gmail.com";
   }
 ```
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=krkaynan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/krkaynan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&layout=compact&theme=buefy&hide_border=true" /></a> |
