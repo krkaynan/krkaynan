@@ -23,21 +23,12 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=krkaynan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="500" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</p>
+<div align="center">
+<a href="https://github.com/krkaynan">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=krkaynan&theme=tokyonight&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&hide=html&layout=compact&theme=tokyonight"/>
+</a>
+</div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ---
