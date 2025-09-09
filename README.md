@@ -20,6 +20,7 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
 </p>
 
 ---
+<div align="center">
 
 ### Linguagens
 
@@ -33,6 +34,7 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
 
+</div>
 <br/>
 <br/>
 
