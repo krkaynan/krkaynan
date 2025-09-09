@@ -19,21 +19,6 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
     </a>
 </p>
 
----
-<div align="center">
-
-### Linguagens
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
-
-### Frameworks & Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask,sqlite,mysql,git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
-
-</div>
-<br/>
-<br/>
-
 ### 📊 Estatísticas
 
 <p>
@@ -52,3 +37,17 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
+
+---
+<div align="center">
+
+### Linguagens
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
+
+### Frameworks & Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask,sqlite,mysql,git,github,vscode,figma,gcp,azure)](https://skillicons.dev)
+
+</div>
+___
