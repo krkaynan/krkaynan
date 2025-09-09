@@ -17,21 +17,6 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
         src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA85D"
     />
     </a>
-    <a href="https://www.linkedin.com/in/kaynanraikkonen/" target="_blank" 
-    style="display: inline-flex; align-items: center; background-color: #0A66C2; ; text-decoration: none;" >
-    <img 
-        src="https://i.ibb.co/tM3Zf00r/pngwing-com-3.png" 
-        alt="LinkedIn" 
-        width="28" 
-        height="28"
-        style="background: #0077B5; "
-    />
-    <img
-        alt="LinkedIn"
-        src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
-        style="display: block;"
-    />
-    </a>
 </p>
 
 ---
