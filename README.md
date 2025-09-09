@@ -39,6 +39,6 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
 
 ### Frameworks & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask,sqlite,mysql,git,figma,gcp,azure,cloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask,sqlite,mysql,django,git,figma,gcp,azure,cloud,aws)](https://skillicons.dev)
 
 </div>
