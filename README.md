@@ -39,6 +39,7 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
     />
 </p>
 
+<br/>
 ---
 <div align="center">
 
