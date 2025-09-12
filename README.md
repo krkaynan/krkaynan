@@ -2,7 +2,7 @@
 
 **`FullStack developer`**
 
-My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. I graduated from high school at ETEC, with a technical degree in Administration. I'm currently studying Systems Development at SENAI and Software Engineering at UMC.123456
+My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. I graduated from high school at ETEC, with a technical degree in Administration. I'm currently studying Systems Development at SENAI and Software Engineering at UMC.12345
 
 <p align="left">
     <a href="mailto:raikkonenkaynan@gmail.com">
