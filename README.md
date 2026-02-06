@@ -20,15 +20,6 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
 
 ---
 
-### 📊 Statistics
-
-<div align="left">
-  <img height="175em" src="https://raw.githubusercontent.com/krkaynan/krkaynan/main/assets/stats.svg" alt="GitHub stats (raw)"/>
-  <img height="175em" src="https://raw.githubusercontent.com/krkaynan/krkaynan/main/assets/top-langs.svg" alt="Top languages (raw)"/>
-</div>
-
-
----
 <div align="center">
 
 ### Languages
