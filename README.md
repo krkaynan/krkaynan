@@ -20,15 +20,35 @@ My name is Kaynan Raikkonen, I'm 18 years old, and I'm from São Paulo, Brazil. 
 
 ---
 
-### 📊 Statistics
+name: Update README cards
 
-<div align="left">
-<a href="https://github.com/krkaynan">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=krkaynan&theme=tokyonight&show_icons=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkaynan&layout=compact&theme=tokyonight&langs_count=12"
-/>
-</a>
-</div>
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
+
 
 ---
 <div align="center">
